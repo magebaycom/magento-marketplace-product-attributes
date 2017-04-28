@@ -17,3 +17,5 @@ See more detail Magebay Multi Vendor: [Magento Multi Vendor Module](https://www.
 - Compatible with all plugins of Magento Multi Vendor Marketplace extension by Magebay
 - Support Multi Store, Multiple website, Multi Language
 - User-Friendly interface
+
+Related plugins: [Marketplace Vendor Attribute Options Management](https://github.com/magebaycom/magento-marketplace-vendor-attribute-options)
